@@ -1,0 +1,35 @@
+1
+00:00:00,540 --> 00:00:05,370
+In this tutorial, you learn to create a full stack of application from scratch using maggoty before
+
+2
+00:00:05,370 --> 00:00:09,640
+the database on Django for the backend and blazer for the front end.
+
+3
+00:00:10,480 --> 00:00:15,900
+You will first start with creating the back project with the Django and create the required WPA endpoints
+
+4
+00:00:15,900 --> 00:00:17,250
+using Django as framework.
+
+5
+00:00:17,940 --> 00:00:20,440
+And then we will use Blazer for creating the front end.
+
+6
+00:00:21,000 --> 00:00:22,980
+You will learn how to add routing for our app.
+
+7
+00:00:31,760 --> 00:00:35,170
+Create bootstrap table with custom sorting and filtering capabilities.
+
+8
+00:00:48,480 --> 00:00:51,390
+Admiral Pop-Up window be dropped on date because.
+
+9
+00:00:57,650 --> 00:01:00,950
+We will also learn how to upload an image and store it in the back and server.
